@@ -1,4 +1,4 @@
-# Python for Everybody
+# Python for Everybody (py4e)
 
 Curso para iniciantes no [coursera.org](https://www.coursera.org/learn/python/home/welcome). 
 

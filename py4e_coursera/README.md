@@ -4,3 +4,4 @@ Curso para iniciantes no [coursera.org](https://www.coursera.org/learn/python/ho
 
 Cobre os fundamentos básicos da linguagem.
 
+Visualizar diferenças

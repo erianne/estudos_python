@@ -1,0 +1,37 @@
+"""
+Exercicios link:
+https://www.py4e.com/html3/05-iterations
+"""
+
+# count = 0
+# total = 0
+# try:
+#     while True:
+#         inp = input("Enter a number: ")
+#         if inp == "done":
+#                 break
+#         total = total + float(inp)
+#         count = count + 1
+#         average = total/count
+#     print(total, count, round(average,1))
+# except:
+#     print("bad data")
+
+    
+
+
+numeros = []
+total = 0
+
+try:
+    while True:
+        inp = input("Enter a number: ")
+        if inp == "done":
+            break
+        numeros.append(float(inp))   
+    print(max(numeros),min(numeros))
+except:
+     print("bad data")
+
+    
+

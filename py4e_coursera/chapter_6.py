@@ -13,4 +13,8 @@ while index > -(len(fruit)+1):
     print(letter)
     index = index - 1
 
+<<<<<<< HEAD
 # procurar chapter5
+=======
+
+>>>>>>> 581259b2e60a5a63f9705a7bab50cc78233af49d
